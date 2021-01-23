@@ -14,4 +14,3 @@ Demonstrates an issue where adding `firebase-ios-sdk` to Xcode Swift Packages, a
 ## The (Workaround) Solution:
 
 Some combination of closing Xcode, Resetting Package Cache, and Updating Package Dependencies can resolve it temporarily.
-

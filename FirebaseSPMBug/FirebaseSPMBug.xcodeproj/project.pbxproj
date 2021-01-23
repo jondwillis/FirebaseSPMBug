@@ -35,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FC24698D25BCC9AE008B2774 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		FC2E880025BCC7C0008D0C0E /* FirebaseSPMBug.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirebaseSPMBug.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC2E880325BCC7C0008D0C0E /* FirebaseSPMBugApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseSPMBugApp.swift; sourceTree = "<group>"; };
 		FC2E880525BCC7C0008D0C0E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -80,6 +81,7 @@
 		FC2E87F725BCC7C0008D0C0E = {
 			isa = PBXGroup;
 			children = (
+				FC24698D25BCC9AE008B2774 /* README.md */,
 				FC52142E25BCC851002932DB /* Analytics */,
 				FC2E880225BCC7C0008D0C0E /* FirebaseSPMBug */,
 				FC2E881425BCC7C1008D0C0E /* FirebaseSPMBugTests */,
