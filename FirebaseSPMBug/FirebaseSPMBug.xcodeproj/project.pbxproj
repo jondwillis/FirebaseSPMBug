@@ -48,7 +48,7 @@
 		FC2E881C25BCC7C1008D0C0E /* FirebaseSPMBugUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirebaseSPMBugUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC2E882025BCC7C1008D0C0E /* FirebaseSPMBugUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseSPMBugUITests.swift; sourceTree = "<group>"; };
 		FC2E882225BCC7C1008D0C0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FC52142E25BCC851002932DB /* Analytics */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Analytics; path = "../../abstraction industires/5words-ios/Shared/Analytics"; sourceTree = "<group>"; };
+		FCBE091925BCCF3000FD880D /* Analytics */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Analytics; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,7 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				FC24698D25BCC9AE008B2774 /* README.md */,
-				FC52142E25BCC851002932DB /* Analytics */,
+				FCBE091925BCCF3000FD880D /* Analytics */,
 				FC2E880225BCC7C0008D0C0E /* FirebaseSPMBug */,
 				FC2E881425BCC7C1008D0C0E /* FirebaseSPMBugTests */,
 				FC2E881F25BCC7C1008D0C0E /* FirebaseSPMBugUITests */,

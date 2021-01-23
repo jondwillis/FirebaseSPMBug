@@ -20,21 +20,12 @@
         }
       },
       {
-        "package": "CwlCatchException",
-        "repositoryURL": "https://github.com/mattgallagher/CwlCatchException.git",
+        "package": "Firebase",
+        "repositoryURL": "https://github.com/firebase/firebase-ios-sdk.git",
         "state": {
           "branch": null,
-          "revision": "f809deb30dc5c9d9b78c872e553261a61177721a",
-          "version": "2.0.0"
-        }
-      },
-      {
-        "package": "CwlPreconditionTesting",
-        "repositoryURL": "https://github.com/mattgallagher/CwlPreconditionTesting.git",
-        "state": {
-          "branch": null,
-          "revision": "02b7a39a99c4da27abe03cab2053a9034379639f",
-          "version": "2.0.0"
+          "revision": "3721a5b8a6233237098f90e5f065dada7641a40b",
+          "version": "7.4.0"
         }
       },
       {
@@ -74,30 +65,12 @@
         }
       },
       {
-        "package": "Nimble",
-        "repositoryURL": "https://github.com/Quick/Nimble.git",
-        "state": {
-          "branch": null,
-          "revision": "e491a6731307bb23783bf664d003be9b2fa59ab5",
-          "version": "9.0.0"
-        }
-      },
-      {
         "package": "Promises",
         "repositoryURL": "https://github.com/google/promises.git",
         "state": {
           "branch": null,
           "revision": "afa9a1ace74e116848d4f743599ab83e584ff8cb",
           "version": "1.2.12"
-        }
-      },
-      {
-        "package": "Quick",
-        "repositoryURL": "https://github.com/Quick/Quick.git",
-        "state": {
-          "branch": null,
-          "revision": "0038bcbab4292f3b028632556507c124e5ba69f3",
-          "version": "3.0.0"
         }
       }
     ]

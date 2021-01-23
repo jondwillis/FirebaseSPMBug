@@ -1,0 +1,17 @@
+//
+//  AnalyticsEnum.swift
+//  Swiftlytics
+//
+//  Created by Jonathan Willis on 5/30/18.
+//  Copyright © 2018 Find Your Grind. All rights reserved.
+//
+
+import Foundation
+
+public protocol StringEnum: RawRepresentable, CustomStringConvertible where RawValue == String {}
+
+public extension StringEnum {
+    var description: String {
+        return rawValue
+    }
+}
