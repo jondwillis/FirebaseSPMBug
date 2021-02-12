@@ -13,7 +13,7 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/Quick/Quick.git", from: "3.0.0"),
         .package(url: "https://github.com/Quick/Nimble.git", from: "9.0.0"),
-        .package(url: "https://github.com/firebase/firebase-ios-sdk", from: "7.4.0"),
+        .package(name: "Firebase", url: "https://github.com/firebase/firebase-ios-sdk", from: "7.6.0"),
     ],
     targets: [
         .target(
